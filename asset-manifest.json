@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/FernanDev.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/FernanDev.github.io/static/js/main.e27d08ce.js",
+    "main.css": "/FernanDev.github.io/static/css/main.a598044a.css",
+    "main.js": "/FernanDev.github.io/static/js/main.d08b6898.js",
     "static/js/787.310e1c7d.chunk.js": "/FernanDev.github.io/static/js/787.310e1c7d.chunk.js",
+    "static/media/Saly-16.png": "/FernanDev.github.io/static/media/Saly-16.70e5be8f209c1b1ced0e.png",
     "static/media/logo.svg": "/FernanDev.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/FernanDev.github.io/index.html",
-    "main.073c9b0a.css.map": "/FernanDev.github.io/static/css/main.073c9b0a.css.map",
-    "main.e27d08ce.js.map": "/FernanDev.github.io/static/js/main.e27d08ce.js.map",
+    "main.a598044a.css.map": "/FernanDev.github.io/static/css/main.a598044a.css.map",
+    "main.d08b6898.js.map": "/FernanDev.github.io/static/js/main.d08b6898.js.map",
     "787.310e1c7d.chunk.js.map": "/FernanDev.github.io/static/js/787.310e1c7d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e27d08ce.js"
+    "static/css/main.a598044a.css",
+    "static/js/main.d08b6898.js"
   ]
 }
